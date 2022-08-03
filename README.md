@@ -40,7 +40,7 @@
 </ul>  
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanishaq&" alt="nomanishaq" width="100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKAshmamKhan&" alt="AKAshmamKhan" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
