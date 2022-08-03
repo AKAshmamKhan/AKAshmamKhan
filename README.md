@@ -6,7 +6,7 @@
 <h2> About Me </h2>
 
 
-<img width="55%" align="right" alt="Noman Ishaq" src="" height="20%" />
+<img width="55%" align="right" alt="" src="" height="20%" />
 
 <br/>
 
